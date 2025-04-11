@@ -1,4 +1,5 @@
 # Conferences
-Conferences I currently collaborate on:
- - ScyllaDB Summit - [2024](https://www.scylladb.com/scylladb-summit-2024/presentations/) and [archives](https://www.scylladb.com/resources/tech-talks/)
+Conferences I currently work on:
  - [P99 CONF](https://www.p99conf.io/)
+ - [Monster SCALE Summit](https://www.scylladb.com/monster-scale-summit)
+ 
